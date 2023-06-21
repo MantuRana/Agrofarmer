@@ -803,7 +803,11 @@ opacity: 0;
 transition: all 0.4s;
   }
 
-  .member .box1 .box-content .fa-icon{
+  .member .box1 .box-content .fa-user{
+    margin-top: 20%;
+margin-left:30%;
+  }
+  .member .box1 .box-content .fa-sharp{
     margin-top: 20%;
 margin-left:30%;
   }
