@@ -767,7 +767,7 @@ section.contact-us .contact-info > div > div > div span:first-child{
 
 .member .box1{
     flex:1;
-    width:300px;
+    width:250px;
     position: relative;
     border-radius:100%;
     border: 2px solid black transparent;
@@ -811,9 +811,6 @@ margin-left:20%;
     margin-top: 20%;
     margin-left:20%;  
 }
-
-
-
 
 .member .box1:hover .box-content{
 
