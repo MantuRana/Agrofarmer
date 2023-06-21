@@ -804,13 +804,9 @@ transition: all 0.4s;
   }
   .member .box1 .box-content .fa-icon{
     margin-top: 20%;
-margin-left:20%;
+margin-left:30%;
 
   }
-.member .box1 .box-content .fa-duotone{
-    margin-top: 20%;
-    margin-left:20%;  
-}
 
 .member .box1:hover .box-content{
 
