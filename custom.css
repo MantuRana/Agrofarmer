@@ -1,0 +1,53 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+
+.overlay {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.title {
+    margin-top: 10px;
+    color:black;
+    text-align: center;
+    font-size:30px;
+    font-family:Fantasy;
+}
+
+.col {
+    margin-top: 20px;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+
+.col div {
+    width: 250px;
+    text-align: center;
+}
+
+input {
+    width: 80%;
+    background-color: rgba(255, 255, 255, 0.8);
+  
+    border-color: transparent;
+    border-radius: 5px;
+    height: 100px;
+    text-align: center;
+    font-size: 35px;
+}
+input:hover{
+    
+    border-color:black;
+}
